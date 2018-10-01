@@ -1,0 +1,2 @@
+git config --global user.email gs.matrix@yahoo.com.br
+git config --global "LatinoHandsomeBoi"
